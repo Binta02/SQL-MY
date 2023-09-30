@@ -1,0 +1,18 @@
+1	R1.01	1	Initiation au developpement	2
+2	R1.06	1	Mathematiques discretes	4
+3	R2.01	2	Developpement oriente objet	6
+4	R2.12	2	Anglais d'entreprise	8
+5	R3.07	3	Graphe	10
+6	R3.09	3	Developpement en IHM	12
+7	R4.02	4	Introduction au systeme d'exploitation	13
+8	R4.10	4	Economie durable et numerique	14
+9	R5.06	5	Reseau	15
+10	R5.05	5	Gestion de projet	16
+11  	R6.09	6	Automate	17
+12	R6.11	6	PPP	18
+13	S1.06	1	Organisation d'un travail d'équipe	16
+14	S2.05	2	Recueil de besoin	18
+15	S3.04	3	Exploitation d'une base de données	6
+16	S4.03	4	Installation d'un poste	15
+17	S5.02	5	Optimiser des applications informatiques	10
+18	S6.01	6	Developpement d'una application	12

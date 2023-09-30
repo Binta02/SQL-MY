@@ -1,0 +1,36 @@
+UE11	Realiser un developpement d'application	S1.01
+UE12	Optimiser des applications informatiques	S1.02
+UE13	Administrer des systemes informatiques communicants	S1.03
+UE14	Gerer des donnees de l'information	S1.04
+UE15	Conduire un projet	S1.05
+UE16	Travailler dans une equipe informatique	S1.06
+UE21	Realiser un developpement d'application	S2.01
+UE22	Optimiser des applications informatiques	S2.02
+UE23	Administrer des systemes informatiques communicants	S2.03
+UE24	Gerer des donnees de l'information	S2.04
+UE25	Conduire un projet	S2.05
+UE26	Travailler dans une equipe informatique	S2.06
+UE31	Realiser un developpement d'application	S3.01
+UE32	Optimiser des applications informatiques	S3.02
+UE33	Administrer des systemes informatiques communicants	S3.03
+UE34	Gerer des donnees de l'information	S3.04
+UE35	Conduire un projet	S3.05
+UE36	Travailler dans une equipe informatique	S3.06
+UE41	Realiser un developpement d'application	S4.01
+UE42	Optimiser des applications informatiques	S4.02
+UE43	Administrer des systemes informatiques communicants	S4.03
+UE44	Gerer des donnees de l'information	S4.04
+UE45	Conduire un projet	S4.05
+UE46	Travailler dans une equipe informatique	S4.06
+UE51	Realiser un developpement d'application	S5.01
+UE52	Optimiser des applications informatiques	S5.02
+UE53	Administrer des systemes informatiques communicants	S5.03
+UE54	Gerer des donnees de l'information	S5.04
+UE55	Conduire un projet	S5.05
+UE56	Travailler dans une equipe informatique	S5.06
+UE61	Realiser un developpement d'application	S6.01
+UE62	Optimiser des applications informatiques	S6.02
+UE63	Administrer des systemes informatiques communicants	S6.03
+UE64	Gerer des donnees de l'information	S6.04
+UE65	Conduire un projet	S6.05
+UE66	Travailler dans une equipe informatique	S6.06

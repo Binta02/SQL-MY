@@ -1,0 +1,6 @@
+1	Classe A
+3	Classe B
+5	Classe C
+7	Classe A
+9	Classe B
+11	Classe C
